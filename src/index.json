@@ -61887,30 +61887,16 @@
         ],
         "stack-hci-vm": [
             {
-<<<<<<< HEAD
                 "downloadUrl": "https://hybridaksstorage.z13.web.core.windows.net/SelfServiceVM/CLI/stack_hci_vm-0.1.2-py3-none-any.whl",
                 "filename": "stack_hci_vm-0.1.2-py3-none-any.whl",
                 "metadata": {
                     "azext.isPreview": true,
                     "azext.minCliCoreVersion": "2.15.0",
-=======
-                "downloadUrl": "https://azurecliprod.blob.core.windows.net/cli-extensions/stack_hci_vm-0.1.2-py3-none-any.whl",
-                "filename": "stack_hci_vm-0.1.2-py3-none-any.whl",
-                "metadata": {
-                    "azext.isExperimental": true,
-                    "azext.minCliCoreVersion": "2.3.1",
->>>>>>> 97dfa246a (Add stack-hci-vm)
                     "classifiers": [
                         "Development Status :: 4 - Beta",
                         "Intended Audience :: Developers",
                         "Intended Audience :: System Administrators",
                         "Programming Language :: Python",
-<<<<<<< HEAD
-=======
-                        "Programming Language :: Python :: 3",
-                        "Programming Language :: Python :: 3.6",
-                        "Programming Language :: Python :: 3.7",
->>>>>>> 97dfa246a (Add stack-hci-vm)
                         "Programming Language :: Python :: 3.8",
                         "License :: OSI Approved :: MIT License"
                     ],
@@ -61927,18 +61913,13 @@
                                 "description": "DESCRIPTION.rst"
                             },
                             "project_urls": {
-<<<<<<< HEAD
                                 "Home": "https://msazure.visualstudio.com/msk8s/_git/azstackhci-util?version=GBmain"
-=======
-                                "Home": "https://github.com/Azure/azure-cli-extensions/tree/master/src/stack-hci-vm"
->>>>>>> 97dfa246a (Add stack-hci-vm)
                             }
                         }
                     },
                     "generator": "bdist_wheel (0.30.0)",
                     "license": "MIT",
                     "metadata_version": "2.0",
-<<<<<<< HEAD
                     "name": "stack-hci-vm",
                     "summary": "Microsoft Azure Command-Line Tools AzureStackHCIClient Extension ",
                     "version": "0.1.2"
@@ -61984,13 +61965,6 @@
                     "version": "0.1.6"
                 },
                 "sha256Digest": "1d4a811cfdb511e3ca394ecbfbe5266c9f91db590fd01743baf23538d3a77ffc"
-=======
-                    "name": "stack-hci",
-                    "summary": "Microsoft Azure Command-Line Tools AzureStackHCIClient Extension",
-                    "version": "0.1.2"
-                },
-                "sha256Digest": "3A72672F48FCC2765A6B21FCC7282B2801AC4D68ABF0F303815CDDB8095C9E7B"
->>>>>>> 97dfa246a (Add stack-hci-vm)
             }
         ],
         "staticwebapp": [
